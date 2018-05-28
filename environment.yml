@@ -3,3 +3,4 @@ dependencies:
   - pip:
     - jieba
     - pyldavis
+    - sklearn
